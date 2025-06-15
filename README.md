@@ -196,7 +196,7 @@ const abdillah = {
 <!-- Random Dev Quote -->
 <h2 align="center">💭 Random Dev Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&width=800" alt="Random Dev Quote" style="max-width: 100%; min-width: 320px;"/>
 </p>
 
 ---
