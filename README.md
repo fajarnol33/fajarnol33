@@ -74,6 +74,18 @@
 
 ---
 
+<!-- Snackbar-style Contribution Highlight -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7F5AF0,FF8906&height=30&section=header&text=🔥%20Keep%20the%20streak%20going!%20Every%20commit%20counts!%20🚀&fontSize=18&fontColor=fff" alt="snackbar"/>
+</p>
+
+<!-- Contribution Graph (otomatis oleh GitHub) -->
+<p align="center">
+  <img src="https://github.com/fajarnol33/fajarnol33/raw/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation"/>
+  <br/>
+  <i style="color:#7F5AF0;">Your journey is just beginning. Let's make every box count!</i>
+</p>
+
 <!-- Lottie Animation (fallback to GIF for GitHub compatibility) -->
 <p align="center">
   <img src="https://assets10.lottiefiles.com/packages/lf20_kyu7xb1v.json.gif" width="200" alt="Lottie Animation"/>
