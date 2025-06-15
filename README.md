@@ -12,7 +12,7 @@
 
 <!-- Typing Effect - Enhanced -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Halo%2C+saya+Abdillah+Fajar+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Membangun+Masa+Depan+Teknologi+%F0%9F%9A%80;Selalu+Belajar+dan+Berkembang+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=halo%2C+saya+abdillah+fajar.+full+stack+developer" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
