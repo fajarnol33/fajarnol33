@@ -141,36 +141,33 @@ const abdillah = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajarnol33&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak"/>
 </p>
 
-<!-- Activity Graph -->
+<!-- Contribution Graph (Selalu tampil & responsif) -->
+<h2 align="center">🟩 Contribution Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajarnol33&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=6366f1&point=f59e0b&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-<!-- Snake Animation (dark mode support) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" style="max-width: 100%;"/>
-  </picture>
-  <br/>
-  <sub><i>Aktifkan GitHub Actions snake.yml di repo Anda agar animasi ini muncul. <a href="https://github.com/Platane/snk#readme">Lihat panduan</a></i></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajarnol33&bg_color=0d1117&color=8b5cf6&line=6366f1&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 24px #6366f133;"/>
 </p>
 
 ---
 
-<!-- Current Projects -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-  Featured Projects
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
-</h2>
-
+<!-- Featured Projects (Card Style, Always Work) -->
+<h2 align="center">✨ Featured Projects</h2>
 <div align="center">
-
-<!-- Code Snippet Style Projects -->
-<img src="https://carbon.now.sh/api?code=const%20projects%20%3D%20%5B%0A%20%20%7B%0A%20%20%20%20name%3A%20%22Modern%20Web%20App%22%2C%0A%20%20%20%20tech%3A%20%5B%22React%22%2C%20%22TypeScript%22%2C%20%22Tailwind%22%5D%2C%0A%20%20%20%20status%3A%20%22In%20Progress%22%0A%20%20%7D%2C%0A%20%20%7B%0A%20%20%20%20name%3A%20%22AI%20Integration%20Tool%22%2C%0A%20%20%20%20tech%3A%20%5B%22Python%22%2C%20%22FastAPI%22%2C%20%22OpenAI%22%5D%2C%0A%20%20%20%20status%3A%20%22Planning%22%0A%20%20%7D%0A%5D%3B&theme=radical&l=javascript" alt="Projects Code Snippet" width="500"/>
-
+  <a href="https://github.com/fajarnol33/modern-web-app" target="_blank">
+    <img src="https://undraw.co/api/illustrations/modern-web.svg" width="120" align="left" style="margin-right: 24px; border-radius: 10px;"/>
+    <b>Modern Web App</b><br/>
+    <sub>React, TypeScript, Tailwind CSS</sub><br/>
+    <img src="https://img.shields.io/github/stars/fajarnol33/modern-web-app?style=social"/>
+    <img src="https://img.shields.io/github/forks/fajarnol33/modern-web-app?style=social"/>
+  </a>
+  <br clear="left"/>
+  <a href="https://github.com/fajarnol33/ai-integration-tool" target="_blank">
+    <img src="https://undraw.co/api/illustrations/ai.svg" width="120" align="left" style="margin-right: 24px; border-radius: 10px;"/>
+    <b>AI Integration Tool</b><br/>
+    <sub>Python, FastAPI, OpenAI</sub><br/>
+    <img src="https://img.shields.io/github/stars/fajarnol33/ai-integration-tool?style=social"/>
+    <img src="https://img.shields.io/github/forks/fajarnol33/ai-integration-tool?style=social"/>
+  </a>
+  <br clear="left"/>
 </div>
 
 ---
