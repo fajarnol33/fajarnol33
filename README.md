@@ -148,7 +148,9 @@ const abdillah = {
 
 <!-- GitHub Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fajarnol33/fajarnol33/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github.com/fajarnol33/fajarnol33/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg';"/>
+  <br/>
+  <sub><i>Jika gambar tidak muncul, aktifkan GitHub Actions snake.yml di repo Anda. <a href="https://github.com/Platane/snk#readme">Lihat panduan</a></i></sub>
 </p>
 
 ---
