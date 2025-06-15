@@ -146,11 +146,15 @@ const abdillah = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajarnol33&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=6366f1&point=f59e0b&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-<!-- GitHub Snake Animation -->
+<!-- Snake Animation (dark mode support) -->
 <p align="center">
-  <img src="https://github.com/fajarnol33/fajarnol33/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg';"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" style="max-width: 100%;"/>
+  </picture>
   <br/>
-  <sub><i>Jika gambar tidak muncul, aktifkan GitHub Actions snake.yml di repo Anda. <a href="https://github.com/Platane/snk#readme">Lihat panduan</a></i></sub>
+  <sub><i>Aktifkan GitHub Actions snake.yml di repo Anda agar animasi ini muncul. <a href="https://github.com/Platane/snk#readme">Lihat panduan</a></i></sub>
 </p>
 
 ---
