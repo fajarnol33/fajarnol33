@@ -118,37 +118,6 @@ const abdillah = {
 
 ---
 
-<!-- GitHub Stats Section - Enhanced -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  GitHub Statistics
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-</h2>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fajarnol33&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<!-- Main Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fajarnol33&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=f59e0b&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarnol33&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
-</div>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajarnol33&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak"/>
-</p>
-
-<!-- Contribution Graph (Selalu tampil & responsif) -->
-<h2 align="center">🟩 Contribution Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajarnol33&bg_color=0d1117&color=8b5cf6&line=6366f1&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 24px #6366f133;"/>
-</p>
-
----
-
 <!-- Random Dev Quote -->
 <h2 align="center">💭 Random Dev Quote</h2>
 <p align="center">
