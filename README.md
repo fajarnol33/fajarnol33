@@ -149,50 +149,6 @@ const abdillah = {
 
 ---
 
-<!-- Featured Projects (Card Style, Always Work) -->
-<h2 align="center">✨ Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/fajarnol33/modern-web-app" target="_blank">
-    <img src="https://undraw.co/api/illustrations/modern-web.svg" width="120" align="left" style="margin-right: 24px; border-radius: 10px;"/>
-    <b>Modern Web App</b><br/>
-    <sub>React, TypeScript, Tailwind CSS</sub><br/>
-    <img src="https://img.shields.io/github/stars/fajarnol33/modern-web-app?style=social"/>
-    <img src="https://img.shields.io/github/forks/fajarnol33/modern-web-app?style=social"/>
-  </a>
-  <br clear="left"/>
-  <a href="https://github.com/fajarnol33/ai-integration-tool" target="_blank">
-    <img src="https://undraw.co/api/illustrations/ai.svg" width="120" align="left" style="margin-right: 24px; border-radius: 10px;"/>
-    <b>AI Integration Tool</b><br/>
-    <sub>Python, FastAPI, OpenAI</sub><br/>
-    <img src="https://img.shields.io/github/stars/fajarnol33/ai-integration-tool?style=social"/>
-    <img src="https://img.shields.io/github/forks/fajarnol33/ai-integration-tool?style=social"/>
-  </a>
-  <br clear="left"/>
-</div>
-
----
-
-<!-- WakaTime Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  Weekly Development Stats
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fajarnol33&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="WakaTime Stats"/>
-</p>
-
----
-
-<!-- GitHub Metrics -->
-<h2 align="center">📈 Detailed Metrics</h2>
-<p align="center">
-  <img src="https://metrics.lecoq.io/fajarnol33?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="GitHub Metrics"/>
-</p>
-
----
-
 <!-- Random Dev Quote -->
 <h2 align="center">💭 Random Dev Quote</h2>
 <p align="center">
